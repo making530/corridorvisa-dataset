@@ -1,0 +1,195 @@
+iso2,iso3,slug,name,demonym,visa_free_count,henley_rank,collected_at
+SG,SGP,singapore,Singapore,Singaporean,192,1,2026-09-04
+AE,ARE,united-arab-emirates,United Arab Emirates,Emirati,187,2,2026-09-04
+JP,JPN,japan,Japan,Japanese,187,2,2026-09-04
+KR,KOR,south-korea,South Korea,South Korean,187,2,2026-09-04
+SE,SWE,sweden,Sweden,Swedish,186,3,2026-09-04
+BE,BEL,belgium,Belgium,Belgian,185,4,2026-09-04
+CH,CHE,switzerland,Switzerland,Swiss,185,4,2026-09-04
+DE,DEU,germany,Germany,German,185,4,2026-09-04
+DK,DNK,denmark,Denmark,Danish,185,4,2026-09-04
+ES,ESP,spain,Spain,Spanish,185,4,2026-09-04
+FI,FIN,finland,Finland,Finnish,185,4,2026-09-04
+FR,FRA,france,France,French,185,4,2026-09-04
+GR,GRC,greece,Greece,Greek,185,5,2026-09-04
+IE,IRL,ireland,Ireland,Irish,185,4,2026-09-04
+IT,ITA,italy,Italy,Italian,185,,2026-09-04
+LU,LUX,luxembourg,Luxembourg,Luxembourger,185,4,2026-09-04
+NL,NLD,netherlands,Netherlands,Dutch,185,4,2026-09-04
+NO,NOR,norway,Norway,Norwegian,185,4,2026-09-04
+AT,AUT,austria,Austria,Austrian,184,5,2026-09-04
+GB,GBR,united-kingdom,United Kingdom,British,184,6,2026-09-04
+MT,MLT,malta,Malta,Maltese,184,5,2026-09-04
+PT,PRT,portugal,Portugal,Portuguese,184,5,2026-09-04
+CA,CAN,canada,Canada,Canadian,183,7,2026-09-04
+HU,HUN,hungary,Hungary,Hungarian,183,6,2026-09-04
+MY,MYS,malaysia,Malaysia,Malaysian,183,6,2026-09-04
+NZ,NZL,new-zealand,New Zealand,New Zealander,183,7,2026-09-04
+PL,POL,poland,Poland,Polish,183,6,2026-09-04
+AU,AUS,australia,Australia,Australian,182,7,2026-09-04
+CZ,CZE,czechia,Czechia,Czech,182,7,2026-09-04
+HR,HRV,croatia,Croatia,Croatian,182,8,2026-09-04
+LV,LVA,latvia,Latvia,Latvian,182,7,2026-09-04
+SK,SVK,slovakia,Slovakia,Slovak,182,7,2026-09-04
+SI,SVN,slovenia,Slovenia,Slovenian,182,7,2026-09-04
+EE,EST,estonia,Estonia,Estonian,181,8,2026-09-04
+LI,LIE,liechtenstein,Liechtenstein,Liechtensteiner,180,9,2026-09-04
+LT,LTU,lithuania,Lithuania,Lithuanian,180,9,2026-09-04
+IS,ISL,iceland,Iceland,Icelandic,179,10,2026-09-04
+US,USA,united-states,United States,American,179,10,2026-09-04
+BG,BGR,bulgaria,Bulgaria,Bulgarian,177,11,2026-09-04
+RO,ROU,romania,Romania,Romanian,177,11,2026-09-04
+MC,MCO,monaco,Monaco,Monegasque,176,12,2026-09-04
+CL,CHL,chile,Chile,Chilean,174,13,2026-09-04
+CY,CYP,cyprus,Cyprus,Cypriot,174,13,2026-09-04
+BR,BRA,brazil,Brazil,Brazilian,170,15,2026-09-04
+AD,AND,andorra,Andorra,Andorran,169,14,2026-09-04
+AR,ARG,argentina,Argentina,Argentine,168,15,2026-09-04
+IL,ISR,israel,Israel,Israeli,166,16,2026-09-04
+SM,SMR,san-marino,San Marino,Sammarinese,166,16,2026-09-04
+BB,BRB,barbados,Barbados,Barbadian,163,17,2026-09-04
+BN,BRN,brunei,Brunei,Bruneian,163,17,2026-09-04
+BS,BHS,bahamas,Bahamas,Bahamian,158,18,2026-09-04
+KN,KNA,saint-kitts-and-nevis,Saint Kitts and Nevis,Kittitian or Nevisian,157,19,2026-09-04
+MX,MEX,mexico,Mexico,Mexican,157,22,2026-09-04
+VC,VCT,saint-vincent-and-the-grenadines,Saint Vincent and the Grenadines,Saint Vincentian,157,19,2026-09-04
+UY,URY,uruguay,Uruguay,Uruguayan,156,23,2026-09-04
+AG,ATG,antigua-and-barbuda,Antigua and Barbuda,"Antiguan, Barbudan",154,22,2026-09-04
+SC,SYC,seychelles,Seychelles,Seychellois,154,22,2026-09-04
+VA,VAT,vatican-city,Vatican City,Vatican,151,23,2026-09-04
+CR,CRI,costa-rica,Costa Rica,Costa Rican,148,24,2026-09-04
+GD,GRD,grenada,Grenada,Grenadian,147,25,2026-09-04
+MU,MUS,mauritius,Mauritius,Mauritian,147,2,2026-09-04
+PA,PAN,panama,Panama,Panamanian,147,25,2026-09-04
+PY,PRY,paraguay,Paraguay,Paraguayan,146,26,2026-09-04
+DM,DMA,dominica,Dominica,Dominican,145,26,2026-09-04
+TT,TTO,trinidad-and-tobago,Trinidad and Tobago,Trinidadian,145,26,2026-09-04
+LC,LCA,saint-lucia,Saint Lucia,Saint Lucian,144,27,2026-09-04
+UA,UKR,ukraine,Ukraine,Ukrainian,142,32,2026-09-04
+PE,PER,peru,Peru,Peruvian,141,29,2026-09-04
+RS,SRB,serbia,Serbia,Serbian,135,30,2026-09-04
+GT,GTM,guatemala,Guatemala,Guatemalan,132,32,2026-09-04
+SB,SLB,solomon-islands,Solomon Islands,Solomon Islander,132,32,2026-09-04
+SV,SLV,el-salvador,El Salvador,Salvadoran,131,33,2026-09-04
+CO,COL,colombia,Colombia,Colombian,130,34,2026-09-04
+HN,HND,honduras,Honduras,Honduran,129,35,2026-09-04
+WS,WSM,samoa,Samoa,Samoan,129,35,2026-09-04
+MH,MHL,marshall-islands,Marshall Islands,Marshallese,127,36,2026-09-04
+TO,TON,tonga,Tonga,Tongan,127,36,2026-09-04
+TV,TUV,tuvalu,Tuvalu,Tuvaluan,127,36,2026-09-04
+MK,MKD,north-macedonia,North Macedonia,Macedonian,126,37,2026-09-04
+ME,MNE,montenegro,Montenegro,Montenegrin,126,37,2026-09-04
+NI,NIC,nicaragua,Nicaragua,Nicaraguan,125,38,2026-09-04
+AL,ALB,albania,Albania,Albanian,123,43,2026-09-04
+KI,KIR,kiribati,Kiribati,I-Kiribati,122,39,2026-09-04
+BA,BIH,bosnia-and-herzegovina,Bosnia and Herzegovina,"Bosnian, Herzegovinian",121,40,2026-09-04
+FM,FSM,micronesia,Micronesia,Micronesian,120,41,2026-09-04
+GE,GEO,georgia,Georgia,Georgian,120,41,2026-09-04
+PW,PLW,palau,Palau,Palauan,120,41,2026-09-04
+MD,MDA,moldova,Moldova,Moldovan,119,42,2026-09-04
+VE,VEN,venezuela,Venezuela,Venezuelan,116,43,2026-09-04
+RU,RUS,russia,Russia,Russian,113,44,2026-09-04
+QA,QAT,qatar,Qatar,Qatari,111,45,2026-09-04
+BZ,BLZ,belize,Belize,Belizean,100,46,2026-09-04
+ZA,ZAF,south-africa,South Africa,South African,100,46,2026-09-04
+JM,JAM,jamaica,Jamaica,Jamaican,99,53,2026-09-04
+KW,KWT,kuwait,Kuwait,Kuwaiti,96,47,2026-09-04
+EC,ECU,ecuador,Ecuador,Ecuadorian,93,48,2026-09-04
+MV,MDV,maldives,Maldives,Maldivian,92,49,2026-09-04
+TL,TLS,timor-leste,Timor-Leste,East Timorese,92,49,2026-09-04
+SA,SAU,saudi-arabia,Saudi Arabia,Saudi Arabian,91,50,2026-09-04
+GY,GUY,guyana,Guyana,Guyanese,88,50,2026-09-04
+VU,VUT,vanuatu,Vanuatu,Ni-Vanuatu,88,50,2026-09-04
+BH,BHR,bahrain,Bahrain,Bahraini,87,51,2026-09-04
+FJ,FJI,fiji,Fiji,Fijian,87,51,2026-09-04
+NR,NRU,nauru,Nauru,Nauruan,86,52,2026-09-04
+OM,OMN,oman,Oman,Omani,84,55,2026-09-04
+PG,PNG,papua-new-guinea,Papua New Guinea,Papua New Guinean,84,54,2026-09-04
+CN,CHN,china,China,Chinese,83,55,2026-09-04
+BW,BWA,botswana,Botswana,Motswana,82,55,2026-09-04
+XK,UNK,kosovo,Kosovo,Kosovar,81,56,2026-09-04
+BY,BLR,belarus,Belarus,Belarusian,78,61,2026-09-04
+KZ,KAZ,kazakhstan,Kazakhstan,Kazakhstani,78,57,2026-09-04
+BO,BOL,bolivia,Bolivia,Bolivian,77,58,2026-09-04
+TH,THA,thailand,Thailand,Thai,76,59,2026-09-04
+SR,SUR,suriname,Suriname,Surinamese,75,60,2026-09-04
+NA,NAM,namibia,Namibia,Namibian,74,61,2026-09-04
+DO,DOM,dominican-republic,Dominican Republic,Dominican,73,67,2026-09-04
+LS,LSO,lesotho,Lesotho,Mosotho,73,61,2026-09-04
+MA,MAR,morocco,Morocco,Moroccan,71,62,2026-09-04
+ID,IDN,indonesia,Indonesia,Indonesian,70,63,2026-09-04
+MW,MWI,malawi,Malawi,Malawian,70,69,2026-09-04
+KE,KEN,kenya,Kenya,Kenyan,69,64,2026-09-04
+GM,GMB,gambia,Gambia,Gambian,68,65,2026-09-04
+TZ,TZA,tanzania,Tanzania,Tanzanian,68,67,2026-09-04
+AZ,AZE,azerbaijan,Azerbaijan,Azerbaijani,67,67,2026-09-04
+GH,GHA,ghana,Ghana,Ghanaian,67,66,2026-09-04
+PH,PHL,philippines,Philippines,Philippine,66,72,2026-09-04
+RW,RWA,rwanda,Rwanda,Rwandan,66,67,2026-09-04
+TN,TUN,tunisia,Tunisia,Tunisian,66,69,2026-09-04
+BJ,BEN,benin,Benin,Beninese,65,68,2026-09-04
+UG,UGA,uganda,Uganda,Ugandan,65,68,2026-09-04
+AM,ARM,armenia,Armenia,Armenian,64,70,2026-09-04
+MN,MNG,mongolia,Mongolia,Mongolian,64,69,2026-09-04
+ZM,ZMB,zambia,Zambia,Zambian,64,69,2026-09-04
+CV,CPV,cape-verde,Cape Verde,Cape Verdean,63,70,2026-09-04
+SL,SLE,sierra-leone,Sierra Leone,Sierra Leonean,62,71,2026-09-04
+SZ,SWZ,eswatini,Eswatini,Swazi,62,71,2026-09-04
+ZW,ZWE,zimbabwe,Zimbabwe,Zimbabwean,61,72,2026-09-04
+KG,KGZ,kyrgyzstan,Kyrgyzstan,Kyrgyzstani,59,73,2026-09-04
+MZ,MOZ,mozambique,Mozambique,Mozambican,59,74,2026-09-04
+UZ,UZB,uzbekistan,Uzbekistan,Uzbekistani,59,73,2026-09-04
+ST,STP,sao-tome-and-principe,São Tomé and Príncipe,Santomean,58,74,2026-09-04
+TG,TGO,togo,Togo,Togolese,57,75,2026-09-04
+BF,BFA,burkina-faso,Burkina Faso,Burkinabe,56,76,2026-09-04
+CU,CUB,cuba,Cuba,Cuban,56,76,2026-09-04
+SN,SEN,senegal,Senegal,Senegalese,56,76,2026-09-04
+CI,CIV,ivory-coast,Ivory Coast,Ivorian,55,77,2026-09-04
+DZ,DZA,algeria,Algeria,Algerian,55,77,2026-09-04
+GA,GAB,gabon,Gabon,Gabonese,55,77,2026-09-04
+MG,MDG,madagascar,Madagascar,Malagasy,55,78,2026-09-04
+MR,MRT,mauritania,Mauritania,Mauritanian,55,77,2026-09-04
+NE,NER,niger,Niger,Nigerien,54,78,2026-09-04
+ML,MLI,mali,Mali,Malian,53,79,2026-09-04
+TJ,TJK,tajikistan,Tajikistan,Tajikistani,53,79,2026-09-04
+GN,GIN,guinea,Guinea,Guinean,52,80,2026-09-04
+GQ,GNQ,equatorial-guinea,Equatorial Guinea,Equatorial Guinean,52,80,2026-09-04
+TD,TCD,chad,Chad,Chadian,51,81,2026-09-04
+KM,COM,comoros,Comoros,Comorian,50,82,2026-09-04
+EG,EGY,egypt,Egypt,Egyptian,50,86,2026-09-04
+GW,GNB,guinea-bissau,Guinea-Bissau,Guinea-Bissauan,50,82,2026-09-04
+BI,BDI,burundi,Burundi,Burundian,49,86,2026-09-04
+JO,JOR,jordan,Jordan,Jordanian,49,83,2026-09-04
+LR,LBR,liberia,Liberia,Liberian,49,83,2026-09-04
+AO,AGO,angola,Angola,Angolan,48,84,2026-09-04
+CF,CAF,central-african-republic,Central African Republic,Central African,48,84,2026-09-04
+HT,HTI,haiti,Haiti,Haitian,48,83,2026-09-04
+VN,VNM,vietnam,Vietnam,Vietnamese,48,84,2026-09-04
+BT,BTN,bhutan,Bhutan,Bhutanese,47,85,2026-09-04
+CM,CMR,cameroon,Cameroon,Cameroonian,47,85,2026-09-04
+KH,KHM,cambodia,Cambodia,Cambodian,47,85,2026-09-04
+DJ,DJI,djibouti,Djibouti,Djibouti,45,87,2026-09-04
+LA,LAO,laos,Laos,Laotian,45,87,2026-09-04
+TM,TKM,turkmenistan,Turkmenistan,Turkmen,45,87,2026-09-04
+NG,NGA,nigeria,Nigeria,Nigerian,44,88,2026-09-04
+CD,COD,dr-congo,DR Congo,Congolese,43,89,2026-09-04
+CG,COG,congo,Congo,Congolese,43,89,2026-09-04
+LB,LBN,lebanon,Lebanon,Lebanese,43,88,2026-09-04
+MM,MMR,myanmar,Myanmar,Burmese,43,90,2026-09-04
+ET,ETH,ethiopia,Ethiopia,Ethiopian,42,70,2026-09-04
+SD,SDN,sudan,Sudan,Sudanese,41,91,2026-09-04
+SS,SSD,south-sudan,South Sudan,South Sudanese,41,91,2026-09-04
+IR,IRN,iran,Iran,Iranian,40,90,2026-09-04
+LY,LBY,libya,Libya,Libyan,39,93,2026-09-04
+LK,LKA,sri-lanka,Sri Lanka,Sri Lankan,39,93,2026-09-04
+PS,PSE,palestine,Palestine,Palestinian,39,93,2026-09-04
+ER,ERI,eritrea,Eritrea,Eritrean,38,94,2026-09-04
+BD,BGD,bangladesh,Bangladesh,Bangladeshi,36,95,2026-09-04
+NP,NPL,nepal,Nepal,Nepalese,35,96,2026-09-04
+KP,PRK,north-korea,North Korea,North Korean,35,96,2026-09-04
+SO,SOM,somalia,Somalia,Somali,32,97,2026-09-04
+YE,YEM,yemen,Yemen,Yemeni,31,98,2026-09-04
+PK,PAK,pakistan,Pakistan,Pakistani,30,100,2026-09-04
+IQ,IRQ,iraq,Iraq,Iraqi,29,99,2026-09-04
+SY,SYR,syria,Syria,Syrian,26,100,2026-09-04
+AF,AFG,afghanistan,Afghanistan,Afghan,24,101,2026-09-04
